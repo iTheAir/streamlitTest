@@ -11,8 +11,6 @@ st.sidebar.title('This is written inside the sidebar')
 st.sidebar.button('click')
 st.sidebar.radio('Pick your gender', ["male", "female"])
 
-
-
 feed = Block(name='Feed')
 feed.add_output()
 
