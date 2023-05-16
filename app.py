@@ -1,4 +1,6 @@
 import streamlit as st
+import barfi as bi
+
 
 st.title("This is the App title")
 x = st.slider('Select a value')
